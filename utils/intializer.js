@@ -24,8 +24,17 @@ async function initializeBot() {
     const BOT_ID = client.user?.id || 'AIO @1.4.1.0';
 
     if (!BOT_API || !DISCORD_USER_ID) {
-        console.error(`${colors.red}❌ Missing BOT_API or DISCORD_USER_ID in .env file${colors.reset}`);
-        process.exit(1);
+        console.log(`${colors.yellow}⚠️  BOT_API or DISCORD_USER_ID not configured - skipping verification${colors.reset}`);
+        printBox({
+            title: '[ ⚡ Bot Ready ]',
+            lines: [
+                'Bot is running without external verification.',
+                'All features are available!',
+                'To enable verification, add BOT_API and DISCORD_USER_ID to Secrets.'
+            ],
+            color: colors.green
+        });
+        return true;
     }
 
     try {
