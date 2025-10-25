@@ -8,7 +8,7 @@
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
+🌐 Website : Hidden Ninja Bot
 🎥 YouTube : https://youtube.com/@GlaceYT
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------
@@ -275,7 +275,7 @@ module.exports = {
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
+🌐 Website : Hidden Ninja Bot
 🎥 YouTube : https://youtube.com/@GlaceYT
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------

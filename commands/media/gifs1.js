@@ -8,11 +8,11 @@
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
+🌐 Website : Hidden Ninja Bot
 🎥 YouTube : https://youtube.com/@GlaceYT
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------
-> © 2025 GlaceYT.com | All rights reserved.
+> © 2025 Hidden Ninja Bot | All rights reserved.
 */
 
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
@@ -247,9 +247,9 @@ module.exports = {
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
+🌐 Website : Hidden Ninja Bot
 🎥 YouTube : https://youtube.com/@GlaceYT
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------
-> © 2025 GlaceYT.com | All rights reserved.
+> © 2025 Hidden Ninja Bot | All rights reserved.
 */

@@ -8,7 +8,7 @@
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
+🌐 Website : Hidden Ninja Bot
 🎥 YouTube : https://youtube.com/@GlaceYT
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------
@@ -602,7 +602,7 @@ if (!await checkPermissions(interaction, 'admin')) return;
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
+🌐 Website : Hidden Ninja Bot
 🎥 YouTube : https://youtube.com/@GlaceYT
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------

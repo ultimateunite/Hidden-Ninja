@@ -61,3 +61,4 @@ The bot automatically starts via the "Discord Bot" workflow. Check the console o
 - Added .gitignore and .env.example
 - Installed Python for native module compilation
 - Configured Discord Bot workflow
+- Renamed bot from GlaceYT to Hidden Ninja throughout entire codebase

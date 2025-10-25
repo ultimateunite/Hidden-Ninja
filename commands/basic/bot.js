@@ -8,11 +8,11 @@
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
-🎥 YouTube : https://youtube.com/@GlaceYT
+🌐 Website : Hidden Ninja Bot
+🎥 YouTube : Hidden Ninja YouTube
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------
-> © 2025 GlaceYT.com | All rights reserved.
+> © 2025 Hidden Ninja Bot | All rights reserved.
 */
 
 const { SlashCommandBuilder } = require('@discordjs/builders');
@@ -179,7 +179,7 @@ module.exports = {
 
                 linksContainer.addTextDisplayComponents(
                     new TextDisplayBuilder()
-                        .setContent(`## 🏠 **Community Hub**\n\n**Support Server**\nhttps://discord.gg/xQF9f9yUEM\nInstant help from community and staff\n\n**Development Platforms**\nGitHub: https://github.com/GlaceYT\nReplit: https://replit.com/@GlaceYT\nYouTube: https://www.youtube.com/@GlaceYT\n\n**Support Features**\n24/7 availability | Reaction roles | Priority assistance | Developer direct access`)
+                        .setContent(`## 🏠 **Community Hub**\n\n**Support Server**\nhttps://discord.gg/xQF9f9yUEM\nInstant help from community and staff\n\n**Development Platforms**\nGitHub: https://github.com/HiddenNinjaBot\nReplit: https://replit.com/@HiddenNinjaBot\nYouTube: https://www.youtube.com/@HiddenNinjaBot\n\n**Support Features**\n24/7 availability | Reaction roles | Priority assistance | Developer direct access`)
                 );
 
                 components.push(linksContainer);
@@ -500,7 +500,7 @@ module.exports = {
 
                 complianceContainer.addTextDisplayComponents(
                     new TextDisplayBuilder()
-                        .setContent(`## 📖 **Compliance Information**\n\n**Regulatory Standards**\nGDPR Compliant | Privacy by design | Minimal data collection | User control priority\n\n**Full Documentation**\nComplete policy available at: https://github.com/GlaceYT \n\n**Data Rights**\nUser control maintained | Deletion requests honored | Transparency guaranteed`)
+                        .setContent(`## 📖 **Compliance Information**\n\n**Regulatory Standards**\nGDPR Compliant | Privacy by design | Minimal data collection | User control priority\n\n**Full Documentation**\nComplete policy available at: https://github.com/HiddenNinjaBot \n\n**Data Rights**\nUser control maintained | Deletion requests honored | Transparency guaranteed`)
                 );
 
                 components.push(complianceContainer);
@@ -539,7 +539,7 @@ module.exports = {
 
                 submissionContainer.addTextDisplayComponents(
                     new TextDisplayBuilder()
-                        .setContent(`## 🔍 **Issue Reporting**\n\n**GitHub Issues**\n**https://github.com/GlaceYT** \nDetailed reports enable faster resolution\n\n**Report Requirements**\nDetailed description | Reproduction steps | Device and OS information | Screenshots when applicable | Error messages included\n\n**Priority Levels**\nCritical bugs: Immediate response | Feature breaks: 24-48 hour resolution | Minor issues: 1-2 week timeline`)
+                        .setContent(`## 🔍 **Issue Reporting**\n\n**GitHub Issues**\n**https://github.com/HiddenNinjaBot** \nDetailed reports enable faster resolution\n\n**Report Requirements**\nDetailed description | Reproduction steps | Device and OS information | Screenshots when applicable | Error messages included\n\n**Priority Levels**\nCritical bugs: Immediate response | Feature breaks: 24-48 hour resolution | Minor issues: 1-2 week timeline`)
                 );
 
                 components.push(submissionContainer);
@@ -646,9 +646,9 @@ module.exports = {
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
-🎥 YouTube : https://youtube.com/@GlaceYT
+🌐 Website : Hidden Ninja Bot
+🎥 YouTube : Hidden Ninja YouTube
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------
-> © 2025 GlaceYT.com | All rights reserved.
+> © 2025 Hidden Ninja Bot | All rights reserved.
 */

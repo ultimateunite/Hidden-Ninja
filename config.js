@@ -6,7 +6,7 @@ module.exports = {
     rotateDefault: [
       { name: 'Netflix', type: ActivityType.Watching },
       { name: 'GTA VI', type: ActivityType.Playing },
-      { name: 'on YouTube', type: ActivityType.Streaming, url: 'https://www.twitch.tv/glaceytt' },
+      { name: 'Hidden Ninja Bot', type: ActivityType.Streaming, url: 'https://www.twitch.tv/hiddenninja' },
       { name: 'Spotify', type: ActivityType.Custom },
     ],
     songStatus: true

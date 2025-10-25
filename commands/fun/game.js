@@ -8,11 +8,11 @@
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
-🎥 YouTube : https://youtube.com/@GlaceYT
+🌐 Website : Hidden Ninja Bot
+🎥 YouTube : Hidden Ninja YouTube
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------
-> © 2025 GlaceYT.com | All rights reserved.
+> © 2025 Hidden Ninja Bot | All rights reserved.
 */
 
 const { SlashCommandBuilder, ActionRowBuilder, StringSelectMenuBuilder, ButtonBuilder, ButtonStyle, ComponentType, EmbedBuilder } = require('discord.js');
@@ -686,9 +686,9 @@ function getMultiplayerGameConfig(game, challenger, opponent) {
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
-🎥 YouTube : https://youtube.com/@GlaceYT
+🌐 Website : Hidden Ninja Bot
+🎥 YouTube : Hidden Ninja YouTube
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------
-> © 2025 GlaceYT.com | All rights reserved.
+> © 2025 Hidden Ninja Bot | All rights reserved.
 */

@@ -8,11 +8,11 @@
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
-🎥 YouTube : https://youtube.com/@GlaceYT
+🌐 Website : Hidden Ninja Bot
+🎥 YouTube : Hidden Ninja YouTube
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------
-> © 2025 GlaceYT.com | All rights reserved.
+> © 2025 Hidden Ninja Bot | All rights reserved.
 */
 
 const { SlashCommandBuilder, EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
@@ -1347,9 +1347,9 @@ Focus on naturally allergen-free options and safe substitutes.`;
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
-🎥 YouTube : https://youtube.com/@GlaceYT
+🌐 Website : Hidden Ninja Bot
+🎥 YouTube : Hidden Ninja YouTube
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------
-> © 2025 GlaceYT.com | All rights reserved.
+> © 2025 Hidden Ninja Bot | All rights reserved.
 */

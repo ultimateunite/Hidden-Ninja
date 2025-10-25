@@ -51,7 +51,7 @@ async function initializeBot() {
                 lines: [
                     `User: ${response.data.user?.username || DISCORD_USER_ID}`,
                     'Your bot is ready to go!',
-                    'Visit https://glaceyt.com for more info.'
+                    'Visit Hidden Ninja Bot for more info.'
                 ],
                 color: colors.green
             });
@@ -62,7 +62,7 @@ async function initializeBot() {
                 lines: [
                     response.data.message || 'Unknown error',
                     'No user account found for this Discord ID.',
-                    'Visit https://glaceyt.com to register/login.'
+                    'Visit Hidden Ninja Bot to register/login.'
                 ],
                 color: colors.red
             });
@@ -73,7 +73,7 @@ async function initializeBot() {
             title: '[ ❌ Verification Error ]',
             lines: [
                 error.response?.data?.message || error.message,
-                'Visit https://glaceyt.com to get API.'
+                'Visit Hidden Ninja Bot to get API.'
             ],
             color: colors.red
         });

@@ -8,11 +8,11 @@
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
-🎥 YouTube : https://youtube.com/@GlaceYT
+🌐 Website : Hidden Ninja Bot
+🎥 YouTube : Hidden Ninja YouTube
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------
-> © 2025 GlaceYT.com | All rights reserved.
+> © 2025 Hidden Ninja Bot | All rights reserved.
 */
 
 const { SlashCommandBuilder } = require('@discordjs/builders');
@@ -565,8 +565,8 @@ module.exports = {
                 developerContainer.addTextDisplayComponents(
                     new TextDisplayBuilder().setContent(
                         pageData.isChunked 
-                            ? `Developed By GlaceYT • https://glaceyt.com`
-                            : `Developed By GlaceYT • https://glaceyt.com`
+                            ? `Developed By GlaceYT • Hidden Ninja Bot`
+                            : `Developed By GlaceYT • Hidden Ninja Bot`
                     )
                 );
                 displayComponents.push(developerContainer);
@@ -671,7 +671,7 @@ module.exports = {
             new ButtonBuilder()
                 .setLabel('Documentation')
                 .setStyle(ButtonStyle.Link)
-                .setURL('https://glaceyt.com/discord/All-In-One-Documentation')
+                .setURL('Hidden Ninja Bot/discord/All-In-One-Documentation')
         );
 
         return [selectMenu, navButtons, linkButtons];
@@ -748,9 +748,9 @@ module.exports = {
 
 -------------------------------------
 📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
-🎥 YouTube : https://youtube.com/@GlaceYT
+🌐 Website : Hidden Ninja Bot
+🎥 YouTube : Hidden Ninja YouTube
 ✅ Verified | 🧩 Tested | ⚙️ Stable
 -------------------------------------
-> © 2025 GlaceYT.com | All rights reserved.
+> © 2025 Hidden Ninja Bot | All rights reserved.
 */

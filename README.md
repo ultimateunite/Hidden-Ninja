@@ -10,14 +10,14 @@
       alt="License: MIT" />
   </a>
 
-  <a href="https://www.paypal.me/@GlaceYT">
+  <a href="https://www.paypal.me/@Hidden Ninja">
     <img src="https://img.shields.io/badge/Donate-PayPal-0079C1?style=flat-square&logo=paypal"
       alt="Donate" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/@GlaceYT">
+  <a href="https://www.youtube.com/channel/@Hidden Ninja">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube"
       alt="YouTube" />
   </a>
