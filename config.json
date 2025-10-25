@@ -1,8 +1,8 @@
 {
-    "token": "EcHvUepwt84ho5TE0Xv158TpDcwm5N12",
+    "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://gg:<gg>@hiddenninja.nbb9epn.mongodb.net/?appName=HiddenNinja",
+    "mongodbUri": "",
     "excessCommands": {
         "other": true,
         "hentai": true,
